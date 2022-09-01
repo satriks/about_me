@@ -24,6 +24,33 @@ https://stepik.org/cert/1604072)
 - [ ] "Поколение Python": курс для профессионалов
 
 
+Добавить в стек:
+
+- [ ] -- PostgreSQL(будет в курсе) 
+- [ ] -- SQLAlchemy ( так же надеюсь будет в баазах данных) 
+- [ ] --  Django и DRF ( посмотрим что будет в курсе) 
+- [ ] --  ОС GNU/Linux 
+- [ ] --  Requests
+- [ ] --  Nginx
+- [ ] --  Docker 
+- [ ] --  Celery
+- [ ] --  Kubernetes
+- [ ] --  REST API
+- [ ] --  flask
+- [ ] --  FastAPI
+- [ ] --  numpy
+-------------------------------------
+Доп в стек:
+- [&] --- SQLAlchemy
+- [&]  --- Ansible
+- [&]  --- pandas
+- [&]  --- MongoD
+- [& &] --- Golang
+- [& & &] --- Pytorch 
+- [^]  --- Jira
+- [^]  --- GitLab 
+
+
 ## Для настроения :
 
 ![море](/sea.webp)
