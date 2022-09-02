@@ -39,7 +39,9 @@ https://stepik.org/cert/1604072)
 - [ ] --  flask
 - [ ] --  FastAPI
 - [ ] --  numpy
+-
 -------------------------------------
+-
 Доп в стек:
 - [&] --- SQLAlchemy
 - [&]  --- Ansible
