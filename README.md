@@ -31,12 +31,11 @@ https://stepik.org/cert/1685626 )
 - [ ] -- SQLAlchemy ( так же надеюсь будет в баазах данных) 
 - [ ] --  Django и DRF ( посмотрим что будет в курсе) 
 - [x] --  ОС Linux 
-- [x] --  Requests
+- [x] --  Requests + REST API
 - [ ] --  Nginx
 - [ ] --  Docker 
 - [ ] --  Celery
 - [ ] --  Kubernetes
-- [ ] --  REST API
 - [ ] --  flask
 - [ ] --  FastAPI
 - [ ] --  numpy
